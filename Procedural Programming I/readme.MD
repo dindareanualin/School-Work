@@ -1,4 +1,4 @@
-1.Solving the 2nd degree polynomial.
+1. Solving the 2nd degree polynomial.
 > tema1.cpp
 
 2. Read a positive integer n. Display how many odd and how many even 
