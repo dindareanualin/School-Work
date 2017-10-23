@@ -1,4 +1,4 @@
-//Check a number if it's "perfect" or not.
+//3. Check a number if it's "perfect" or not.
 //A "perfect" number is a number which is equal to the sum of its divisors, exculding itself
 //Example of perfect number: 6 = 1 + 2 + 3
 
