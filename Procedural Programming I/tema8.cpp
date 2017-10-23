@@ -1,8 +1,3 @@
-//8.Se citesc de la tastatura lungimea si latimea unui
-//dreptunghi. Sa se realizeze un algoritm care sa calculeze
-//aria si perimetrul dreptunghiului, utilizand o functie pentru
-//calcul arie si o functie pentru calcul perimetru.
-
 //8. Read the lenght and width of a rectangle.
 //Create an algorithm which will compute the area and perimeter of the rectangle,
 //using separate functions for the area and perimeter computation.
